@@ -13,10 +13,10 @@ navigation:
  - text: Oferta
    url: /oferta.html
  - text: Biuro tłumaczeń
-   url: biuro-tlumaczen.html
+   url: /biuro-tlumaczen.html
  - text: Klienci
-   url: klienci.html
+   url: /klienci.html
  - text: O mnie
-   url: o-mnie.html
+   url: /o-mnie.html
  - text: Kontakt
-   url: kontakt.html
+   url: /kontakt.html

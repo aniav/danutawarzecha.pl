@@ -9,7 +9,8 @@
     <div id="menu">
       <ul>
         {% assign url = page.url %}
-        {% for link in page.navigation %}
+        {{ page.navigation }}
+        {% for link in site.navigation %}
         <li {% if url == link.url %}class="current_page_item"{% endif %}>
             <a href="{{link.url}}" title="{{link.title}}">{{link.text}}</a>
         </li>
