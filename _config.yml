@@ -9,6 +9,9 @@ url: "http://danutawarzecha.pl"
 markdown: kramdown
 permalink: pretty
 
+gems:
+  - jekyll-redirect-from
+
 navigation:
  - text: Oferta
    url: /oferta.html
