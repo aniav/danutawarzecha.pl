@@ -1,0 +1,4 @@
+url: "https://danutawarzecha.pl"
+
+plugins:
+  - jekyll-sitemap
